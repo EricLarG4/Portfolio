@@ -1,3 +1,3 @@
 # Portfolio
 
-![GitHub Logo](/Logo ARNA - color schemes.png)
+![GitHub Logo](images/Logo ARNA - color schemes.png)
