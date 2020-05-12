@@ -1,3 +1,3 @@
 # Portfolio
 
-![image](Logo ARNA - color schemes.png)
+![image](/Logo ARNA - color schemes.png)
