@@ -4,8 +4,8 @@
 
 ### ARNA lab logo
 
-![Logo highres](images/Logo ARNA - lowres.png)
+![Logo highres](https://github.com/EricLarG4/Portfolio/images/Logo ARNA - lowres.png)
 
 ### ARNA lab logo color schemes
 
-![Logo colors](images/Logo ARNA - color schemes.png)
+![Logo colors](https://github.com/EricLarG4/Portfolio/images/Logo ARNA - color schemes.png)
