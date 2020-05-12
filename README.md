@@ -14,5 +14,5 @@
 
 ### Chemical Reviews
 
-![ChemRev](https://github.com/EricLarG4/Portfolio/blob/master/images/Cover-ChemRev.png)
+![ChemRev](https://github.com/EricLarG4/Portfolio/blob/master/images/Cover-ChemRev.jpg)
 
