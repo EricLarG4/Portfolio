@@ -22,6 +22,11 @@
 
 [Link to the publication](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201203710)
 
+### IECB board report
+
+![IECB1](https://github.com/EricLarG4/Portfolio/blob/master/images/Cover_IECB_board_part1.png)
+![IECB2](https://github.com/EricLarG4/Portfolio/blob/master/images/Cover_IECB_board_part2.png)
+
 ## Logos
 
 ### ARNA lab logo
