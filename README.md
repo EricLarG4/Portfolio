@@ -6,7 +6,7 @@
 
 <img src="https://github.com/EricLarG4/Portfolio/blob/master/images/Cover-ChemRev.jpg">
 <br>
-<a src="https://pubs.acs.org/toc/chreay/119/10">Link to the issue</a>
+<a href="https://pubs.acs.org/toc/chreay/119/10">Link to the issue</a>
 
 ### Chemistry - A European Journal
 
