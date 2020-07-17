@@ -4,7 +4,7 @@
 
 ### Chemical Reviews
 
-<img src="https://github.com/EricLarG4/Portfolio/blob/master/images/Cover-ChemRev.jpg">
+<img src="images/Cover-ChemRev.jpg" alt="xxx">
 <br>
 <a href="https://pubs.acs.org/toc/chreay/119/10">Link to the issue</a>
 
