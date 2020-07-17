@@ -4,7 +4,7 @@
 
 ### Chemical Reviews
 
-<img src="images/Cover-ChemRev.jpg" alt="xxx">
+<img src="images/Cover-ChemRev.jpg" alt="chemrev">
 <br>
 <a href="https://pubs.acs.org/toc/chreay/119/10">Link to the issue</a>
 
@@ -12,27 +12,27 @@
 
 #### Inside cover
 
-![Chemistry](https://github.com/EricLarG4/Portfolio/blob/master/images/Cover_chemistry.jpg)
-
-[Link to the publication](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.201490019)
+<img src="images/Cover_chemistry.jpg" alt="chemistry">
+<br>
+<a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.201490019">Link to the publication</a>
 
 #### Frontispiece
-
-![Chemistry2](https://github.com/EricLarG4/Portfolio/blob/master/images/Frontispiece-chemistry.png)
-
-[Link to the publication](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201203710)
+<img src="images/Frontispiece-chemistry.png" alt="chemistry">
+<br>
+<a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201203710">Link to the publication</a>
 
 ### IECB board report
 
-![IECB1](https://github.com/EricLarG4/Portfolio/blob/master/images/Cover_IECB_board_part1.png)
-![IECB2](https://github.com/EricLarG4/Portfolio/blob/master/images/Cover_IECB_board_part2.png)
+<img src="images/Cover_IECB_board_part1.png" alt="iecb1">
+<br>
+<img src="images/Cover_IECB_board_part2.png" alt="iecb2">
 
 ## Logos
 
 ### ARNA lab logo
 
-![Logo highres](https://github.com/EricLarG4/Portfolio/blob/master/images/Logo_ARNA-lowres.png)
+<img src="images/Logo_ARNA-lowres.png" alt="arna">
 
 ### ARNA lab logo color schemes
 
-![Logo colors](https://github.com/EricLarG4/Portfolio/blob/master/images/Logo_ARNA-color_schemes.png)
+<img src="images/Logo_ARNA-color_schemes.png" alt="arna schemes">
