@@ -4,9 +4,9 @@
 
 ### Chemical Reviews
 
-![ChemRev](https://github.com/EricLarG4/Portfolio/blob/master/images/Cover-ChemRev.jpg)
-
-[Link to the issue](https://pubs.acs.org/toc/chreay/119/10)
+<img src="https://github.com/EricLarG4/Portfolio/blob/master/images/Cover-ChemRev.jpg"></img>
+<br>
+<a src="https://pubs.acs.org/toc/chreay/119/10">Link to the issue</a>
 
 ### Chemistry - A European Journal
 
